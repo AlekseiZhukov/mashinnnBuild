@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.396eec16.chunk.css",
+    "main.js": "./static/js/main.1506318b.chunk.js",
+    "main.js.map": "./static/js/main.1506318b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.bbfc47bd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.bbfc47bd.js.map",
+    "static/js/2.545fe16c.chunk.js": "./static/js/2.545fe16c.chunk.js",
+    "static/js/2.545fe16c.chunk.js.map": "./static/js/2.545fe16c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.396eec16.chunk.css.map": "./static/css/main.396eec16.chunk.css.map",
+    "static/js/2.545fe16c.chunk.js.LICENSE.txt": "./static/js/2.545fe16c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/Prodaktion Mobile.839638c3.jpg": "./static/media/Prodaktion Mobile.839638c3.jpg",
+    "static/media/Prodaktion.81b09da7.jpg": "./static/media/Prodaktion.81b09da7.jpg",
+    "static/media/slick-theme.css": "./static/media/arrowRight.bc6bae7e.svg",
+    "static/media/cncFrezStan.632ad6ab.jpg": "./static/media/cncFrezStan.632ad6ab.jpg",
+    "static/media/cncLathe.4409365b.jpg": "./static/media/cncLathe.4409365b.jpg",
+    "static/media/frezStan.dbe965f5.jpg": "./static/media/frezStan.dbe965f5.jpg",
+    "static/media/FrezernayaObrabotkaMobile.module.css": "./static/media/frezer.ad305513.png",
+    "static/media/frezernayaObrabotka.f1e38324.jpg": "./static/media/frezernayaObrabotka.f1e38324.jpg",
+    "static/media/frezernayaObrabotkaMobile.ea92f260.jpg": "./static/media/frezernayaObrabotkaMobile.ea92f260.jpg",
+    "static/media/hand.570a6f14.jpg": "./static/media/hand.570a6f14.jpg",
+    "static/media/logo.f8d98e79.svg": "./static/media/logo.f8d98e79.svg",
+    "static/media/logoFooter.86265067.svg": "./static/media/logoFooter.86265067.svg",
+    "static/media/onHomeArrow.029ceaf1.svg": "./static/media/onHomeArrow.029ceaf1.svg",
+    "static/media/TokarnayaObrabotkaMobile.module.css": "./static/media/tokar.c8c5172f.png",
+    "static/media/tokarStan.876a05dd.jpg": "./static/media/tokarStan.876a05dd.jpg",
+    "static/media/tokarnayaObrabotkaMobile.ff8d724d.jpg": "./static/media/tokarnayaObrabotkaMobile.ff8d724d.jpg",
+    "static/media/tokarnayaObrabotks.15029d4e.jpg": "./static/media/tokarnayaObrabotks.15029d4e.jpg",
+    "static/media/verticalTurningLathe.747513d1.jpg": "./static/media/verticalTurningLathe.747513d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfc47bd.js",
+    "static/js/2.545fe16c.chunk.js",
+    "static/css/main.396eec16.chunk.css",
+    "static/js/main.1506318b.chunk.js"
+  ]
+}
